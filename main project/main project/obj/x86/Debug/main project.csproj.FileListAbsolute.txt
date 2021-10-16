@@ -1,0 +1,26 @@
+c:\documents and settings\reza\my documents\visual studio 2010\Projects\main project\main project\bin\Debug\main project.exe
+c:\documents and settings\reza\my documents\visual studio 2010\Projects\main project\main project\bin\Debug\main project.pdb
+c:\documents and settings\reza\my documents\visual studio 2010\Projects\main project\main project\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\reza\my documents\visual studio 2010\Projects\main project\main project\obj\x86\Debug\main_project.Form1.resources
+c:\documents and settings\reza\my documents\visual studio 2010\Projects\main project\main project\obj\x86\Debug\main_project.Properties.Resources.resources
+c:\documents and settings\reza\my documents\visual studio 2010\Projects\main project\main project\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\reza\my documents\visual studio 2010\Projects\main project\main project\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\reza\my documents\visual studio 2010\Projects\main project\main project\obj\x86\Debug\main project.exe
+c:\documents and settings\reza\my documents\visual studio 2010\Projects\main project\main project\obj\x86\Debug\main project.pdb
+C:\Documents and Settings\reza\my documents\visual studio 2010\Projects\main project\main project\obj\x86\Debug\main_project.Form3.resources
+C:\Documents and Settings\reza\My Documents\Visual Studio 2010\Projects\main project\main project\obj\x86\Debug\main_project.header_name_req.resources
+C:\Documents and Settings\reza\my documents\visual studio 2010\Projects\main project\main project\bin\Debug\main project.exe.config
+C:\Documents and Settings\reza\my documents\visual studio 2010\Projects\main project\main project\obj\x86\Debug\main_project.all_data.resources
+C:\Users\Reza\Desktop\main project\main project\bin\Debug\main project.exe.config
+C:\Users\Reza\Desktop\main project\main project\bin\Debug\main project.exe
+C:\Users\Reza\Desktop\main project\main project\bin\Debug\main project.pdb
+C:\Users\Reza\Desktop\main project\main project\obj\x86\Debug\main project.csproj.AssemblyReference.cache
+C:\Users\Reza\Desktop\main project\main project\obj\x86\Debug\main_project.all_data.resources
+C:\Users\Reza\Desktop\main project\main project\obj\x86\Debug\main_project.header_name_req.resources
+C:\Users\Reza\Desktop\main project\main project\obj\x86\Debug\main_project.Properties.Resources.resources
+C:\Users\Reza\Desktop\main project\main project\obj\x86\Debug\main project.csproj.GenerateResource.cache
+C:\Users\Reza\Desktop\main project\main project\obj\x86\Debug\main project.csproj.CoreCompileInputs.cache
+C:\Users\Reza\Desktop\main project\main project\obj\x86\Debug\main project.exe
+C:\Users\Reza\Desktop\main project\main project\obj\x86\Debug\main project.pdb
+C:\Users\Reza\Desktop\main project\main project\obj\x86\Debug\main_project.Opening_window.resources
+C:\Users\Reza\Desktop\main project\main project\obj\x86\Debug\main_project.Main_window.resources
